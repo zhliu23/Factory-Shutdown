@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Assets\Scripts\PlayerController.cs" Line="202" Column="30" />
+      <File FileName="Assets\Assets\Scripts\WeaponControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\MeleeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\LoadSceneOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\QuitOnClick.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
